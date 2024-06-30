@@ -34,7 +34,7 @@ LeetCode-Challenges/
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/yourusername/LeetCode-Challenges.git
+    git clone [https://github.com/yourusername/LeetCode-Challenges.git](https://github.com/IvoL1/LeetCode.git)
     ```
 
 2. **Navigate to the Difficulty Level:**
