@@ -1,4 +1,4 @@
-![LeetCode - Logo](https://github.com/IvoL1/LeetCode-Solutions/assets/173399839/416ce0db-54e0-479d-b5c3-9d1d28c0dd7a)
+![LeetCode - Logo](https://github.com/IvoL1/LeetCode/assets/173399839/384b1b1f-2639-406a-9de0-54aba19ab02d)
 # LeetCode Challenges Repository
 
 Welcome to my LeetCode Challenges Repository! This repository contains solutions to the LeetCode challenges I solve to practice and improve my programming logic and reasoning skills. The solutions are organized by difficulty level.
