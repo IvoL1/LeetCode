@@ -1,0 +1,7 @@
+// 9. Palindrome Number
+
+function isPalindrome(x: number): boolean {
+  const str = x.toString();
+  const reversed = str.split("").reverse().join("");
+  return str === reversed;
+};
